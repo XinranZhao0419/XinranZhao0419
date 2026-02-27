@@ -1,4 +1,4 @@
-<h1 align="center">Xinran Zhao | 赵心然</h1>
+<h1 align="center">Xinran Zhao </h1>
 
 <p align="center">
 🎓 Electronic Information Engineering @ Beijing University of Technology  &nbsp;•&nbsp;
@@ -130,7 +130,7 @@ I specialize in turning **signals → models → states → real-time systems**,
 ---
 
 ## 📊 GitHub
-
+https://github.com/XinranZhao0419
 
 
 ---
