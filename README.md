@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Research & Engineering Experience (Selected)
+## 🚀 Research & Engineering Experience
 
 <table>
 <tr>
@@ -131,14 +131,11 @@ I specialize in turning **signals → models → states → real-time systems**,
 
 ## 📊 GitHub
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true" height="150" />
-</p>
+
 
 ---
 
 ## 📫 Contact
 
-Email: your_email_here  
-GitHub: https://github.com/yourusername
+Email: 1390139916@qq.com
+GitHub: https://github.com/XinranZhao0419
